@@ -48,6 +48,3 @@ The Power BI dashboard provides interactive analysis of:
 - Regional Analysis
 - Product Performance
 - Monthly Sales Trends
-
-## Project File
-- Retail_Sales_Profit_Analysis.ipynb
