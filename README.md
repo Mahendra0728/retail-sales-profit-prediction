@@ -48,3 +48,4 @@ The Power BI dashboard provides interactive analysis of:
 - Regional Analysis
 - Product Performance
 - Monthly Sales Trends
+![Power BI Dashboard](Dashboard.png)
