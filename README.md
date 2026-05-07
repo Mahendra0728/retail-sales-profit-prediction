@@ -42,10 +42,12 @@ This project analyzes retail sales data to identify profitability trends, region
 - Decision Tree Classification achieved the highest classification accuracy
 
 ## Power BI Dashboard
+
+![Power BI Dashboard](Dashboard.png)
+
 The Power BI dashboard provides interactive analysis of:
 - Sales Performance
 - Profitability Trends
 - Regional Analysis
 - Product Performance
 - Monthly Sales Trends
-![Power BI Dashboard](Dashboard.png)
