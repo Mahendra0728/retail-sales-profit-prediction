@@ -43,7 +43,7 @@ This project analyzes retail sales data to identify profitability trends, region
 
 ## Power BI Dashboard
 
-![Power BI Dashboard]("C:\Users\Mahendra\OneDrive\Documents\Retail_Project\Data\Notebooks\Dashboard.png")
+![Power BI Dashboard](Data/Notebooks/Dashboard.png)
 
 The Power BI dashboard provides interactive analysis of:
 - Sales Performance
