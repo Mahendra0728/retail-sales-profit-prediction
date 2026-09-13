@@ -17,9 +17,9 @@ This project analyzes retail sales data to identify profitability trends, region
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
-- SQL Business Analysis
 - Regression Modeling
 - Classification Modeling
+- SQL Business Analysis
 - Power BI Dashboard Development
 
 ## Machine Learning Models
