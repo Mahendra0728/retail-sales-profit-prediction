@@ -35,11 +35,11 @@ This project analyzes retail sales data to identify profitability trends, region
 - SVM Classification
 
 ## Key Business Insights
-- Higher discount levels negatively impacted profitability
-- Shipping cost significantly influenced profit
-- Technology and Office Supplies categories contributed strong sales and profit performance
-- Random Forest Regression achieved the best regression performance
-- Decision Tree Classification achieved the highest classification accuracy
+- Higher discount levels were generally associated with lower profitability.
+- Sales and discount were the most important features for predicting profit; shipping cost had comparatively lower importance.
+- Technology achieved the highest sales and profit, while Office Supplies achieved the second-highest profit.
+- Random Forest Regressor achieved the best performance among the tested regression models.
+- Decision Tree Classifier achieved the highest classification accuracy.
 
 ## Power BI Dashboard
 
